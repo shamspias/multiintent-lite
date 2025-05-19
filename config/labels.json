@@ -1,0 +1,6 @@
+{
+  "Greeting": 0,
+  "Farewell": 1,
+  "Toxic": 2,
+  "Chitchat": 3
+}
